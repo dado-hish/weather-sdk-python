@@ -7,7 +7,7 @@ Weather SDK - это инструментарий разработки прог�
 Вы можете установить Weather SDK с помощью pip:
 
 ```bash
-pip3 install weather-sdk
+pip3 install weather-sdk-nikita-alekseev
 ```
 
 ```python
