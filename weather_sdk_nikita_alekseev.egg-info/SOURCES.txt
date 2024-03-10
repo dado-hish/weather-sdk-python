@@ -1,0 +1,7 @@
+README.md
+setup.py
+weather_sdk_nikita_alekseev.egg-info/PKG-INFO
+weather_sdk_nikita_alekseev.egg-info/SOURCES.txt
+weather_sdk_nikita_alekseev.egg-info/dependency_links.txt
+weather_sdk_nikita_alekseev.egg-info/requires.txt
+weather_sdk_nikita_alekseev.egg-info/top_level.txt

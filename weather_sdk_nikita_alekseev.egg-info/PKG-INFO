@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: weather-sdk-nikita-alekseev
+Version: 0.1
+Summary: SDK for accessing weather data from OpenWeatherMap API
+Home-page: https://github.com/yourusername/weather-sdk
+Author: Your Name
+Author-email: your@email.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
 # Weather SDK
 
 Weather SDK - это инструментарий разработки программного обеспечения (SDK) для доступа к данным о погоде с использованием API OpenWeatherMap.
